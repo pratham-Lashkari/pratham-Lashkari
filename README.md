@@ -171,5 +171,5 @@
 
 <!-- Streak Stats -->
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham-Lashkari&" alt="pratham-Lashkari" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham-Lashkari&theme=dark" alt="pratham-Lashkari" />
 </p>
