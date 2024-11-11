@@ -1,17 +1,17 @@
-
 <h1 align='center'>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Naveen.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=FFFFFF&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Pratham+Lashkari!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
+
 
 <div align='center'>
   <img src="https://raw.githubusercontent.com/imakshath/imakshath/master/1%20IRGHmiGsa16stedQvIaZfw.gif" alt="https://mishra-naveen-dev.io" />
 </div>
 <div align='center'>
-  <img src="https://komarev.com/ghpvc/?username=mishra-naveen-dev&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=pratham-Lashkari&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 <h3 align='center'>
-  A passionate Frontend Developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
+ I’m a passionate Backend Developer and Competitive Programmer<img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
 </h3>
 
 
@@ -20,15 +20,15 @@
 
 <p align="left center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce JavaScript Project Basic**
+🔭 I’m currently working on projects
 
-- 🌱 I’m currently learning **React JS,DSA**
+🌱 I’m currently learning Microservices, React JS, and DSA
 
-- 👨‍💻 All of my projects are available at [https://mishra-naveen-dev.github.io/MyPortfolio/](https://mishra-naveen-dev.github.io/MyPortfolio/)
+👨‍💻 All of my projects are available at [My Portfolio](https://pratham-lashkari.netlify.app/)  <!-- Replace with your actual portfolio link -->
 
-- 📫 How to reach me **naveenmishra1404@gmail.com,nvin.s.mishra18@gmail.com**
+📫 How to reach me: prathamlashkari841@gmail.com <!-- Replace with your email -->
 
-- ⚡ Fun fact **I think I am funny**
+⚡ Fun fact: I think I’m good at problem-solving!
 
 <!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
