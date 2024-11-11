@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=FFFFFF&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Pratham+Lashkari!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 
-
-
 <div align='center'>
   <img src="https://komarev.com/ghpvc/?username=pratham-Lashkari&style=flat-square&color=blue" alt="Profile Views" />
 </div>
