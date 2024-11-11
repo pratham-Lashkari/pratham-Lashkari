@@ -155,13 +155,23 @@
 
 
 <div align="center">
-<a href="https://github.com/pratham-Lashkari">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratham-Lashkari&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pratham-Lashkari&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pratham-Lashkari&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pratham-Lashkari&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratham-Lashkari&theme=2077" height="180em" />
+  <!-- Stats Card -->
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratham-Lashkari&theme=2077" height="180em" />
+  
+  <!-- Most Commit Language Card -->
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pratham-Lashkari&theme=2077" height="180em" />
+  
+  <!-- Repos Per Language Card -->
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pratham-Lashkari&theme=2077" height="180em" />
+  
+  <!-- Productive Time Card -->
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pratham-Lashkari&theme=2077" height="180em" />
+  
+  <!-- Profile Details Card -->
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratham-Lashkari&theme=2077" height="180em" />
 </div>
 
-<p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham-Lashkari&" alt="pratham-Lashkari" /></p>
-
+<!-- Streak Stats -->
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham-Lashkari&" alt="pratham-Lashkari" />
+</p>
